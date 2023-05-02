@@ -1,0 +1,518 @@
+/* text alignment */
+.left{
+    text-align: left;
+}
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+
+/* display content*/
+.inline-block{
+    display: inline-block;
+}
+.inline{
+    display: inline;
+}
+.block{
+    display: block;
+}
+
+/* text color  */
+.text-red{
+    color: red!important;
+}
+.text-green{
+    color: green!important;
+}
+.text-orange{
+    color: orange!important;
+}
+.text-yellow{
+    color: yellow!important;
+}
+.text-purple{
+    color: purple!important;
+}
+.text-brown{
+    color: brown!important;
+}
+.text-gray{
+    color: gray!important;
+}
+.text-olive{
+    color: olive!important;
+}
+.text-maroon{
+    color: maroon!important;
+}
+.text-violet{
+    color: violet!important;
+}
+.text-magenta{
+    color: magenta!important;
+}
+.text-tan{
+    color: tan!important;
+}
+.text-teal{
+    color: teal!important;
+}
+.text-black{
+    color: black!important;
+}
+.text-white{
+    color: white!important;
+}
+.text-navy{
+    color: navy!important;
+}
+.text-navyBlue{
+    color: #000080!important;
+}
+.text-coral{
+    color: coral!important;
+}
+.text-lavender{
+    color: lavender!important;
+}
+.text-gold{
+    color: gold!important;
+}
+.text-pink{
+    color: pink!important;
+}
+.text-silver{
+    color: silver!important;
+}
+.text-cyan{
+    color: cyan!important;
+}
+
+/* background color */
+.bg-smokeWhite{
+    background-color: #f5f5f5;
+}
+.bg-red{
+    background-color: red!important;
+}
+.bg-green{
+    background-color: green!important;
+}
+.bg-orange{
+    background-color: orange!important;
+}
+.bg-yellow{
+    background-color: yellow!important;
+}
+.bg-purple{
+    background-color: purple!important;
+}
+.bg-brown{
+    background-color: brown!important;
+}
+.bg-gray{
+    background-color: gray!important;
+}
+.bg-olive{
+    background-color: olive!important;
+}
+.bg-maroon{
+    background-color: maroon!important;
+}
+.bg-violet{
+    background-color: violet!important;
+}
+.bg-magenta{
+    background-color: magenta!important;
+}
+.bg-tan{
+    background-color: tan!important;
+}
+.bg-teal{
+    background-color: teal!important;
+}
+.bg-black{
+    background-color: black!important;
+}
+.bg-white{
+    background-color: white!important;
+}
+.bg-navy{
+    background-color: navy!important;
+}
+.bg-navyBlue{
+    background-color: #000080!important;
+}
+.bg-coral{
+    background-color: coral!important;
+}
+.bg-lavender{
+    background-color: lavender!important;
+}
+.bg-gold{
+    background-color: gold!important;
+}
+.bg-pink{
+    background-color: pink!important;
+}
+.bg-silver{
+    background-color: silver!important;
+}
+.bg-cyan{
+    background-color: cyan!important;
+}
+
+
+/* border color */
+.border-red{
+    border: 1px solid red!important;
+}
+.border-green{
+    border: 1px solid green!important;
+}
+.border-orange{
+    border: 1px solid orange!important;
+}
+.border-yellow{
+    border: 1px solid yellow!important;
+}
+.border-purple{
+    border: 1px solid purple!important;
+}
+.border-brown{
+    border: 1px solid brown!important;
+}
+.border-gray{
+    border: 1px solid gray!important;
+}
+.border-olive{
+    border: 1px solid olive!important;
+}
+.border-maroon{
+    border: 1px solid maroon!important;
+}
+.border-violet{
+    border: 1px solid violet!important;
+}
+.border-magenta{
+    border: 1px solid magenta!important;
+}
+.border-tan{
+    border: 1px solid tan!important;
+}
+.border-teal{
+    border: 1px solid teal!important;
+}
+.border-black{
+    border: 1px solid black!important;
+}
+.border-white{
+    border: 1px solid white!important;
+}
+.border-navy{
+    border: 1px solid navy!important;
+}
+.border-navyBlue{
+    border: 1px solid #000080!important;
+}
+.border-coral{
+    border: 1px solid coral!important;
+}
+.border-lavender{
+    border: 1px solid lavender!important;
+}
+.border-gold{
+    border: 1px solid gold!important;
+}
+.border-pink{
+    border: 1px solid pink!important;
+}
+.border-silver{
+    border: 1px solid silver!important;
+}
+.border-smokeWhite{
+    border: 1px solid #f5f5f5!important;
+}
+.border-cyan{
+    border: 1px solid cyan!important;
+}
+
+/* 2px border */
+.border-red-2{
+    border: 2px solid red!important;
+}
+.border-green-2{
+    border: 2px solid green!important;
+}
+.border-orange-2{
+    border: 2px solid orange!important;
+}
+.border-yellow-2{
+    border: 2px solid yellow!important;
+}
+.border-purple-2{
+    border: 2px solid purple!important;
+}
+.border-brown-2{
+    border: 2px solid brown!important;
+}
+.border-gray-2{
+    border: 2px solid gray!important;
+}
+.border-olive-2{
+    border: 2px solid olive!important;
+}
+.border-maroon-2{
+    border: 2px solid maroon!important;
+}
+.border-violet-2{
+    border: 2px solid violet!important;
+}
+.border-magenta-2{
+    border: 2px solid magenta!important;
+}
+.border-tan-2{
+    border: 2px solid tan!important;
+}
+.border-teal-2{
+    border: 2px solid teal!important;
+}
+.border-black-2{
+    border: 2px solid black!important;
+}
+.border-white-2{
+    border: 2px solid white!important;
+}
+.border-navy-2{
+    border: 2px solid navy!important;
+}
+.border-navyBlue-2{
+    border: 2px solid #000080!important;
+}
+.border-coral-2{
+    border: 2px solid coral!important;
+}
+.border-lavender-2{
+    border: 2px solid lavender!important;
+}
+.border-gold-2{
+    border: 2px solid gold!important;
+}
+.border-pink-2{
+    border: 2px solid pink!important;
+}
+.border-silver-2{
+    border: 2px solid silver!important;
+}
+.border-cyan-2{
+    border: 2px solid cyan!important;
+}
+.border-smokeWhite-2{
+    border: 2px solid #f5f5f5!important;
+}
+
+/* 3px border */
+.border-red-3{
+    border: 3px solid red!important;
+}
+.border-green-3{
+    border: 3px solid green!important;
+}
+.border-orange-3{
+    border: 3px solid orange!important;
+}
+.border-yellow-3{
+    border: 3px solid yellow!important;
+}
+.border-purple-3{
+    border: 3px solid purple!important;
+}
+.border-brown-3{
+    border: 3px solid brown!important;
+}
+.border-gray-3{
+    border: 3px solid gray!important;
+}
+.border-olive-3{
+    border: 3px solid olive!important;
+}
+.border-maroon-3{
+    border: 3px solid maroon!important;
+}
+.border-violet-3{
+    border: 3px solid violet!important;
+}
+.border-magenta-3{
+    border: 3px solid magenta!important;
+}
+.border-tan-3{
+    border: 3px solid tan!important;
+}
+.border-teal-3{
+    border: 3px solid teal!important;
+}
+.border-black-3{
+    border: 3px solid black!important;
+}
+.border-white-3{
+    border: 3px solid white!important;
+}
+.border-navy-3{
+    border: 3px solid navy!important;
+}
+.border-navyBlue-3{
+    border: 3px solid #000080!important;
+}
+.border-coral-3{
+    border: 3px solid coral!important;
+}
+.border-lavender-3{
+    border: 3px solid lavender!important;
+}
+.border-gold-3{
+    border: 3px solid gold!important;
+}
+.border-pink-3{
+    border: 3px solid pink!important;
+}
+.border-silver-3{
+    border: 3px solid silver!important;
+}
+.border-cyan-3{
+    border: 3px solid cyan!important;
+}
+.border-smokeWhite-3{
+    border: 3px solid #f5f5f5!important;
+}
+.border-none{
+    border: none;
+}
+
+/* flex alignment and height */
+.full-screen-height{
+    height: 100vh;
+}
+.vertical-center{
+    align-items: center;
+    display: flex;
+}
+.vertical-top{
+    align-items: start;
+    display: flex;
+}
+.vertical-bottom{
+    align-items: end;
+    display: flex;
+}
+.horizontal-left{
+    display: flex;
+    justify-content: left;
+}
+.horizontal-center{
+    display: flex;
+    justify-content: center;
+}
+.horizontal-right{
+    display: flex;
+    justify-content: right;
+}
+.reverse-column{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.flex-column{
+    display: flex;
+    flex-direction: column;
+}
+
+/* Form design */
+.lulu-form input {
+    border: 1px solid #ededed;
+    padding: 8px 14px;
+    border-radius: 4px;
+    color: #b0acaced;
+}
+.lulu-form input::placeholder{
+    color: #b0acac;
+}
+.lulu-form input:focus-visible{
+    outline: none!important;
+    box-shadow: 4px 5px 6px #dddddd;
+    transition: 0.4s;
+}
+
+
+
+/* component css start from here */
+.table-column-2 {
+    text-align:center;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.table-column-3 {
+    text-align:center;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.table-column-4 {
+    text-align:center;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.table-column-5 {
+    text-align:center;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+.table-column-6 {
+    text-align:center;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+}
+.table-column-7 {
+    text-align:center;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+}
+.table-column-8 {
+    text-align:center;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto;
+}
+.table-column-9 {
+    text-align:center;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto ;
+}
+.table-column-10 {
+    text-align:center;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto ;
+}
+.table-column-11 {
+    text-align:center;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto;
+}
+.table-column-12 {
+    text-align:center;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
+}
+.table-header{
+    background-color: #333333;
+    font-weight: bold;
+    color: white!important;
+    padding: 10px 0;
+}
+.table-item {
+    padding: 10px 0;
+}
+.style-1 .table-item:nth-child(even){
+background-color: #f5f5f5;
+}
+
+
